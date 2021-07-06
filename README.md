@@ -1,4 +1,3 @@
-# curriculo
-Currículo atualizado
+# Currículo
 
 Repositório com meu currículo e documentações pertinentes.
